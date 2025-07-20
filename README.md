@@ -14,7 +14,10 @@ A simple web page that lets users enter their email, generate a unique code, and
 - `style.css` – Styling for form and modal
 - `index.js` – JavaScript logic for code generation and modal handling
 
-## Preview
+## Prompt Box Preview
+![Preview](Preview.png)
+
+## Modal Box Preview
 ![Preview](Preview2.png)
 
 ## Demo
