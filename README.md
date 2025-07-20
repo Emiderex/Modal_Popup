@@ -15,10 +15,10 @@ A simple web page that lets users enter their email, generate a unique code, and
 - `index.js` – JavaScript logic for code generation and modal handling
 
 ## Prompt Box Preview
-![Preview](Preview.png)
+<img src="Preview.png" alt="Preview of the Project" width="400">
 
 ## Modal Box Preview
-![Preview](Preview2.png)
+<img src="Preview2.png" alt="Preview of the Project" width="400">
 
 ## Demo
 https://modal-popup-iota.vercel.app/
