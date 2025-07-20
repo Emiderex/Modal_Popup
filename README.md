@@ -7,7 +7,7 @@ A simple web page that lets users enter their email, generate a unique code, and
 - Random 6-digit code generator
 - Centered modal overlay with dimmed background
 - Copy to clipboard
-- Close modal by clicking X or background
+- Close the modal by clicking X or the background
 
 ## Files
 - `index.html` – Main structure
@@ -15,7 +15,7 @@ A simple web page that lets users enter their email, generate a unique code, and
 - `index.js` – JavaScript logic for code generation and modal handling
 
 ## Preview
-![Preview](Preview.png)
+
 
 ## Demo
 https://modal-popup-iota.vercel.app/
