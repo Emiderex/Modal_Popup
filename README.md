@@ -15,7 +15,7 @@ A simple web page that lets users enter their email, generate a unique code, and
 - `index.js` – JavaScript logic for code generation and modal handling
 
 ## Preview
-
+![Preview](Preview.png)
 
 ## Demo
 https://modal-popup-iota.vercel.app/
